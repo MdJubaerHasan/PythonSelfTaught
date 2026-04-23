@@ -1,0 +1,49 @@
+[
+    {
+        "user_id": 1042,
+        "username": "coder_jane",
+        "active": true,
+        "roles": [
+            "admin",
+            "editor",
+            "viewer"
+        ],
+        "last_login_location": [
+            "New York",
+            40.7128,
+            -74.006
+        ],
+        "preferences": {
+            "theme": "dark",
+            "notifications": true
+        }
+    },
+    {
+        "user_id": 1043,
+        "username": "data_dan",
+        "active": false,
+        "roles": [
+            "viewer",
+            [
+                "guest_access",
+                "read_only"
+            ]
+        ],
+        "last_login_location": [
+            "London",
+            51.5074,
+            -0.1278
+        ],
+        "preferences": {
+            "theme": "light",
+            "notifications": false
+        }
+    },
+    [
+        "metadata",
+        {
+            "generated_on": "2026-04-21",
+            "system_version": "3.1.4"
+        }
+    ]
+]

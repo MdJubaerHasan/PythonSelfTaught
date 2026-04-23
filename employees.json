@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "name": "Alice",
+        "department": "Engineering",
+        "active": true
+    },
+    {
+        "id": 102,
+        "name": "Bob",
+        "department": "Sales",
+        "active": false
+    },
+    {
+        "id": 103,
+        "name": "Charlie",
+        "department": "Design",
+        "active": true
+    }
+]
