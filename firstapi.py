@@ -33,4 +33,8 @@ async def read_items():
             <p>This is being served directly from Python!</p>
         </body>
     </html>
-    """
+        """
+
+
+
+# To run this, use uvicorn firstapi:app --reload
